@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701240096822,
+      "tag": "0000_numerous_matthew_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701240330146,
+      "tag": "0001_hard_ser_duncan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701241644616,
+      "tag": "0002_cuddly_loki",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1701252487977,
+      "tag": "0003_mixed_blue_blade",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1701252552967,
+      "tag": "0004_slippery_vertigo",
+      "breakpoints": true
+    }
+  ]
+}
