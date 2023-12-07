@@ -9,9 +9,6 @@ dotenv.config({path:'.env'});
 if(!process.env.DATABASE_URL){
     console.log('on database URL');
 }
-
-
-
 const client  = postgres(process.env.DATABASE_URL as string ,{max:1});
 const db  = drizzle(client ,{schema});
 const migrateDb = async () =>{
